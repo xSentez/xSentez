@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">I'm studying computer engineering in Suleyman Demirel University 2|4</h3>
+<h3 align="center">I'm studying computer engineering in Suleyman Demirel University 3|4</h3>
 
 - 🌱 I’m currently learning **Android Studio, Java, Kotlin**
 
