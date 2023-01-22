@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Y.Y&left_text=Profile Views"  />
+<img src="https://komarev.com/ghpvc/?username=YusufDagdeviren&&style=flat-square" align="center" />
 </div>
 
 ###
