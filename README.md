@@ -55,6 +55,10 @@
   <a href="https://discordapp.com/users/Yusuf#1831 " target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="40" alt="discord logo"  />
   </a>
+
+  <a href="https://www.hackerrank.com/ddyusufdd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="40" alt="hackerrank logo"  />
+  </a>
 </div>
 
 ###
