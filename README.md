@@ -35,7 +35,6 @@
 
 ###
 
-![snake gif](https://github.com/YusufDagdeviren/YusufDagdeviren/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
