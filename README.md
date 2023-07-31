@@ -5,7 +5,7 @@
 
 ###
 
-<p align="center">- 🌱 I’m currently learning ReactJs,NodeJs,ExpressJs,Docker</p>
+<p align="center">- 🌱 I’m currently learning NodeJs,ExpressJs,Docker,Redis</p>
 
 ###
 
