@@ -5,7 +5,7 @@
 
 ###
 
-<p align="center">- 🌱 I’m currently learning Nothing </p>
+<p align="center">- 🌱 I’m currently learning Spring,.Net Core </p>
 
 ###
 
