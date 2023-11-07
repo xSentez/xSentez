@@ -5,7 +5,8 @@
 
 ###
 
-<p align="center">- 🌱 I’m currently learning Spring, Net Core </p>
+<p align="center">- 🌱 I’m currently learning Spring-Boot </p>
+<p align="center">- 🦾 I'm developing my ApolloTune project </p>
 
 ###
 
