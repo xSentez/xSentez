@@ -1,11 +1,9 @@
 <h2 align="center">Hi 👋, I'm Yusuf</h2>
 
 
-<p align="center">I'm studying computer engineering in Suleyman Demirel University 4|4</p>
 
 ###
 
-<p align="center">- 🦾 I'm developing my ApolloTune project </p>
 
 ###
 
